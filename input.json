@@ -1,0 +1,22 @@
+{"tenant_id": "0",
+  "staff_id": 0,
+  "log_date": "new Date('')",
+  "last_lat": 0,
+  "last_lng": 0,
+  "logs": [
+      {"staff_title": "0",
+    "distribution_unit_id": 0,
+    "lat": 0,
+    "lng": 0,
+    "distance": 0,
+    "accuracy": 0,
+    "battery": 0,
+    "network_type": "0",
+    "speed": "0",
+    "device_id": "0",
+    "os_version": "0",
+    "app_version": "0",
+    "create_date": "new Date('')"
+      }
+    ]
+  }
